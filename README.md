@@ -3,7 +3,7 @@ Go to work/private directory
 
 (after logging into lxplus type "cd work/private")
 
-First try cloning the repository using following commands:
+First try cloning the repository and run the code using following commands:
 
 git clone https://github.com/Sumantifr/LearnJets .
 
