@@ -1,0 +1,2 @@
+ALL_PACKAGES += Exercise_Jets/LearnJets
+subdirs_src_Exercise_Jets_LearnJets := src_Exercise_Jets_LearnJets_plugins src_Exercise_Jets_LearnJets_python src_Exercise_Jets_LearnJets_test

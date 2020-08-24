@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=Exercise_Jets
+subdirs_src_Exercise_Jets = src_Exercise_Jets_LearnJets

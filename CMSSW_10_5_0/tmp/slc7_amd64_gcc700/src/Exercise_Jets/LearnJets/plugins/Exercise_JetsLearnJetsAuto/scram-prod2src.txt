@@ -1,0 +1,1 @@
+Exercise_JetsLearnJetsAuto Exercise_Jets/LearnJets/plugins/LearnJets.cc Exercise_Jets/LearnJets/plugins/NTuplizer_jets.cc

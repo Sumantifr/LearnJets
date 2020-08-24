@@ -1,0 +1,5 @@
+<tool name="cuda-cusparse" version="10.0.130-dlmfga">
+  <info url="https://docs.nvidia.com/cuda/cusparse/index.html"/>
+  <use name="cuda"/>
+  <lib name="cusparse"/>
+</tool>
