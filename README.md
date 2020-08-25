@@ -13,7 +13,7 @@ scram b -j8
 
 cd Exercise_Jets/LearnJets/test
 
-cmsRun -n 0 JEC_MC_cfg.py
+cmsRun -n 0 JEC_MC_MINIAOD_cfg.py
 
 If it doesn't work, the steps below.
 
@@ -45,4 +45,4 @@ now, go to 'test' directory (cd ../test/)
 
 copy everything from https://github.com/Sumantifr/LearnJets/tree/master/CMSSW_10_5_0/src/Exercise_Jets/LearnJets/test here
 
-now run program using "cmsRun -n 0 JEC_MC_cfg.py"
+now run program using "cmsRun -n 0 JEC_MC_MINIAOD_cfg.py"
